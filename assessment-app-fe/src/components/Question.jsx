@@ -4,6 +4,11 @@ import SingleQuestion from './SingleQuestion';
 import {ImArrowRight} from 'react-icons/im';
 
 class Question extends Component {
+
+    state = {
+        questions: []
+    }
+    
     render() {
         return (
             <div>

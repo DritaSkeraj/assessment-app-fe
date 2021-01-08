@@ -3,6 +3,11 @@ import { FaGreaterThan } from 'react-icons/fa'
 import '../styles/Results.css'
 
 class Results extends Component {
+
+    state = {
+
+    }
+    
     render() {
         return (
             <div>
