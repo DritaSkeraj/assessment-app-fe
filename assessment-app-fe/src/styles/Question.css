@@ -1,0 +1,41 @@
+.header{
+    padding: 10px;
+    opacity: 0.9;
+}
+.singleQuestion{
+    width: 90%;
+    margin-top: 8em;
+    margin-left: 4em;
+}
+.option{
+    width: 90%;
+    padding: 0.8em;
+    border: 1px solid #000803;
+    border-radius: 8px;
+    color: #000803;
+    font-size: 1em;
+    margin: 0.5em;
+}
+.option:hover{
+    cursor: pointer;
+    color: white;
+    border: 1px solid #01A031;
+}
+.question-holder{
+    margin: 0 auto;
+    justify-content: center;
+}
+.arrow{
+    margin: 0.5em 1.5em;
+    padding: 5px;
+    color: #01A031;
+    background-color: #000803;
+    font-size: 3em;
+    border-radius: 8px;
+    position: relative;
+    width: 3em;
+    margin-left: 6em;
+    margin-right: 6.5em;
+    position: relative;
+    float: right;
+}

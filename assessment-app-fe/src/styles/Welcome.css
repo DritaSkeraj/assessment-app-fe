@@ -1,0 +1,31 @@
+.welcome-lines{
+    margin-top: 5%;
+    text-align: center;
+    padding: 2em 5em;
+}
+.name-input{
+    text-align: center;
+    width: 50%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 0 auto;
+}
+.name-input input[type=text]{
+    width: 90%;
+    padding: 0.8em;
+    border: 1 px solid #000803;
+    border-radius: 8px;
+}
+.home-arrow{
+    margin: 0.5em 1.5em;
+    padding: 5px;
+    color: #01A031;
+    background-color: #000803;
+    font-size: 3em;
+    border-radius: 8px;
+    width: 3em;
+    /* position: absolute;
+    top: 60%;
+    right: 22%; */
+}

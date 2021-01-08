@@ -1,0 +1,15 @@
+body{
+    padding: 15px;
+    margin: 10px;
+    text-align: center;
+}
+.heading{
+    margin-top: 5%;
+}
+ol{
+    width: 20%;
+    margin: 0 auto;
+}
+h4{
+    text-decoration: underline;
+}
